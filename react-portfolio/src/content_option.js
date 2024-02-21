@@ -95,12 +95,6 @@ const dataportfolio = [
     link: "https://bjpippenger.github.io/WeatherForecast/",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
     img: "https://picsum.photos/400/300/?grayscale",
     description: "A simple text editor that runs in the browser.",
     link: "https://github.com/Bjpippenger/PWA",
