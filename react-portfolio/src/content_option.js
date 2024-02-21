@@ -1,15 +1,14 @@
 const logotext = "FTK";
 const meta = {
   title: "",
-  description:
-    "",
+  description: "",
 };
 
 const introdata = {
   title: "I’m Benjamin Pippenger",
   animated: {
     first: "I enjoy coding",
-    second: "I code responsive and sleek websites",
+    second: "I feel like i have the skills to build responsive and sleek websites",
     third: "I develop mobile apps",
   },
   description:
@@ -19,7 +18,7 @@ const introdata = {
 };
 
 const dataabout = {
-  title: "a bit about my self",
+  title: "A bit about my self",
   aboutme:
     "I enjoy watching movies and going on hikes with my wife and two daughters. I also enjoy getting out and walking the city streets looking for new and interesting places to eat or just enjoying the fresh air and unique sites.",
 };
@@ -91,7 +90,8 @@ const dataportfolio = [
   },
   {
     img: "https://picsum.photos/400/800/?grayscale",
-    description: "A weather forecast site to check the weather in any city you choose.",
+    description:
+      "A weather forecast site to check the weather in any city you choose.",
     link: "https://bjpippenger.github.io/WeatherForecast/",
   },
   {
@@ -102,29 +102,27 @@ const dataportfolio = [
   },
   {
     img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    description: "A simple text editor that runs in the browser.",
+    link: "https://github.com/Bjpippenger/PWA",
   },
   {
     img: "https://picsum.photos/400/700/?grayscale",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "A simplebackend application to view products categories and ids on products in your business",
+    link: "https://github.com/Bjpippenger/Ecommerce",
   },
   {
     img: "https://picsum.photos/400/700/?grayscale",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "A social network application to add friends and request friends as well as post thoughts or comments",
+    link: "https://github.com/Bjpippenger/SocialNetwork",
   },
 ];
 
 const contactConfig = {
   YOUR_EMAIL: "Bjpippenger@yahoo.com",
   YOUR_FONE: "(209) 752-8218",
-  description:
-    "Any inquiries or questions are welcomed. Thank you.",
+  description: "Any inquiries or questions are welcomed. Thank you.",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
