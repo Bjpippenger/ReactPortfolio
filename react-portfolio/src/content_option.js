@@ -8,14 +8,14 @@ const meta = {
 const introdata = {
   title: "I’m Benjamin Pippenger",
   animated: {
-    first: "I love coding",
+    first: "I enjoy coding",
     second: "I code responsive and sleek websites",
     third: "I develop mobile apps",
   },
   description:
     "I am a Web Developer and I am enjoying it so far. I have a very good work ethic and attention to detail and am looking forward to creating sleek, responsive, and visually appealing websites.",
   your_img_url:
-    "https://images.unsplash.com/photo-1530406831759-15c5c0cbce8b?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1549309019-a1d77aeae74f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
@@ -60,7 +60,7 @@ const skills = [
   },
   {
     name: "Jquery",
-    value: 85,
+    value: 70,
   },
 ];
 
@@ -68,17 +68,17 @@ const services = [
   {
     title: "UI & UX Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I can create you a sleek and appealing website that delivers seamless navigation and enhanced usability for your target audience.",
   },
   {
     title: "Mobile Apps",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I can turn your website or website idea into a mobile application, ensuring accessibility and engagement across various devices and platforms.",
   },
   {
-    title: "Wordpress Design",
+    title: "Fullstack",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I specialize in seamlessly integrating backend functionality with frontend interfaces, enabling clients to efficiently display and store user data through intuitive web applications.",
   },
 ];
 
@@ -86,20 +86,13 @@ const dataportfolio = [
   {
     img: "https://picsum.photos/400/?grayscale",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "A simple work calendar to make your everyday or worklife easier.",
+    link: "https://bjpippenger.github.io/WorkCalendar/",
   },
   {
     img: "https://picsum.photos/400/800/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    description: "A weather forecast site to check the weather in any city you choose.",
+    link: "https://bjpippenger.github.io/WeatherForecast/",
   },
   {
     img: "https://picsum.photos/400/600/?grayscale",
@@ -115,37 +108,6 @@ const dataportfolio = [
   },
   {
     img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
@@ -159,10 +121,10 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
+  YOUR_EMAIL: "Bjpippenger@yahoo.com",
+  YOUR_FONE: "(209) 752-8218",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "Any inquiries or questions are welcomed. Thank you.",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
