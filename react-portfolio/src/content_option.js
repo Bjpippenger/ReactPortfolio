@@ -1,8 +1,8 @@
 const logotext = "FTK";
 const meta = {
-  title: "John Doe",
+  title: "",
   description:
-    "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    "",
 };
 
 const introdata = {
